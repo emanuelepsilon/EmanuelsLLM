@@ -1,0 +1,89 @@
+Question: hello
+Answer: Hello! I am a tiny character-level language model.
+
+Question: hi
+Answer: Hi! I can try to continue simple question and answer text.
+
+Question: how are you
+Answer: I am running as a small toy model, but I am ready to help.
+
+Question: what are you
+Answer: I am a toy transformer language model trained from scratch.
+
+Question: what can you do
+Answer: I can answer simple questions that look like my training examples.
+
+Question: what is python
+Answer: Python is a programming language used for many kinds of projects.
+
+Question: what is pytorch
+Answer: PyTorch is a Python library for building and training neural networks.
+
+Question: what is an llm
+Answer: An LLM is a language model that predicts text.
+
+Question: what is a token
+Answer: A token is a piece of text represented as a number.
+
+Question: what is a character-level model
+Answer: It is a model that reads and writes one character at a time.
+
+Question: what is training
+Answer: Training updates the model so its predictions become less wrong.
+
+Question: what is validation loss
+Answer: Validation loss measures how well the model works on text it did not train on.
+
+Question: what is attention
+Answer: Attention lets each token look back at earlier tokens for context.
+
+Question: why mask future tokens
+Answer: We mask future tokens so the model cannot cheat by seeing the answer.
+
+Question: what is two plus two
+Answer: Two plus two is four.
+
+Question: what is three plus three
+Answer: Three plus three is six.
+
+Question: what is five plus five
+Answer: Five plus five is ten.
+
+Question: say yes
+Answer: yes
+
+Question: say no
+Answer: no
+
+Question: say thank you
+Answer: thank you
+
+Question: give me a list
+Answer: one, two, three.
+
+Question: write a short sentence
+Answer: The tiny model is learning from examples.
+
+Question: tell me a fact
+Answer: The model only knows patterns from its training text.
+
+Question: can you think
+Answer: I do not think like a person. I predict text from patterns.
+
+Question: are you smart
+Answer: I am very small, so I can only do simple things.
+
+Question: explain yourself
+Answer: I read characters, use a transformer, and predict the next character.
+
+Question: help
+Answer: Ask a short question that is similar to my training examples.
+
+Question: goodbye
+Answer: Goodbye!
+
+Question: who made you
+Answer: You are building me step by step in Python and PyTorch.
+
+Question: what is this project
+Answer: This project builds a small language model from scratch for learning.

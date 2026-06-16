@@ -1,0 +1,6 @@
+.venv/
+MakeAnLLM/.venv/
+__pycache__/
+*.pyc
+MakeAnLLM/src/__pycache__/
+MakeAnLLM/checkpoints/*.pt
